@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6ad6e68-a42e-45fd-ba8d-c75d6cde445b" name="St Cloud State SFTP" url="http://sftp.stcloudstate.edu">
+        <fileTransfer host="sftp.stcloudstate.edu" port="22" rootFolder="/StudentFiles/WebSpace" accessType="SFTP" password="dffadfc6dfdfdfc7dfc7dfd3df84df9bdf98" username="yg4502od">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
